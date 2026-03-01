@@ -21,3 +21,6 @@ script/run \
 
 video reference https://www.youtube.com/watch?v=XvbVePuP7NY&t=1061s
 
+hardware:
+pi-hat: https://thinkrobotics.com/products/respeaker-2-mics-pi-hat-for-raspberry-pi-online?variant=44357098275133&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopdLO6JzXxkTFfFQJr9HXInNKhUJwrX4KsYU5FC3yKk5R7dJ2MDI1k
+
